@@ -1,0 +1,30 @@
+{
+  "name": "webpack-component-loader-pug-parser",
+  "version": "0.0.1",
+  "description": "a part in webpack-component-loader ecosystem to parse pug template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholaslee119/webpack-component-loader-pug-parser.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "pug"
+  ],
+  "author": "nicholas lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholaslee119/webpack-component-loader-pug-parser/issues"
+  },
+  "homepage": "https://github.com/nicholaslee119/webpack-component-loader-pug-parser#readme",
+  "devDependencies": {
+    "babel-jest": "^21.2.0",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^21.2.0",
+    "regenerator-runtime": "^0.11.0"
+  }
+}
